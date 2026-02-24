@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "hauynite",
+  "base_artist": "garnet",
+  "createdAt": "2026-02-24T05:39:20.434708Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "hauynite",
+      "artist": "narry",
+      "has_synced": false,
+      "path": "select/01_hauynite_narry.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "hauynite",
+      "artist": "garnet",
+      "has_synced": false,
+      "path": "select/pl_01_hauynite_garnet.txt"
+    }
+  ]
+}
